@@ -1,0 +1,5 @@
+{
+  "name": "Auto-Recommend Dashboard",
+  "description": "An intelligent, category-switching dashboard that automatically selects the best visualization for your data using rule-based logic and Gemini AI for insights.",
+  "requestFramePermissions": []
+}
